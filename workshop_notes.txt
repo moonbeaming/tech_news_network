@@ -1,0 +1,7 @@
+hey :)
+hey
+:))) <3
+
+web manifest - json file
+service worker - javascript is single threaded runtime, this sends info back and forth to the background running process
+push service
